@@ -8,6 +8,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Maxlego08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Metrics](https://metrics.lecoq.io/Maxlego08)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
